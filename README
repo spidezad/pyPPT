@@ -1,0 +1,7 @@
+pyPPT
+Version 1
+Author: Tan Kok Hua (Guohua Tan)
+
+Simple Ms PPT interface through python using wincom.
+
+Only basic functions are avaliable at this point.
